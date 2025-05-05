@@ -1,18 +1,22 @@
-# 🛍️ Olist Marketplace Data Analysis (SQL + Pandas)
+# 🛍️ Olist Marketplace Sales Analysis (SQL + Pandas)
 
-This project analyzes a Brazilian e-commerce platform's performance using SQL and Python.  
-It reveals seller performance, product category revenue, and customer regional patterns.
+This project analyzes the sales data of Olist, a Brazilian e-commerce platform.  
+It identifies top sellers, high-performing product categories, and regional trends to support data-driven marketing.
 
-## ✅ Objectives
-- Identify top sellers by sales, reviews, and delivery speed
-- Highlight profitable product categories
-- Discover regional trends for marketing strategy
+## 🔎 Key Objectives
+- Rank top sellers by revenue, review score, and delivery time
+- Analyze most profitable product categories
+- Explore city-level purchase trends across Brazil
 
-## 🛠️ Tools & Tech
-- SQLite (for joins, filtering, and grouping)
-- Pandas (for cleaning and merging)
-- Matplotlib (for simple visualization)
+## 🛠️ Tools Used
+- SQL (SQLite in-memory joins and aggregations)
+- Python (Pandas, Matplotlib)
+- Google Colab (fully runnable with zipped CSV upload)
 
-## 💼 Target Use
-- Freelance data analytics portfolio
-- Demonstrating hybrid SQL + Python workflow
+## 📁 Files Included
+- 🧾 Jupyter Notebook (`.ipynb`)
+- 🗃️ CSV data extracted from Olist dataset
+- 📦 Instructions to unzip and load data easily
+
+## 💼 Project Purpose
+Created as part of a freelance data analyst portfolio to demonstrate real-world SQL + Python hybrid workflows.
