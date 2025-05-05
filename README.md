@@ -19,4 +19,4 @@ It identifies top sellers, high-performing product categories, and regional tren
 - 📦 Instructions to unzip and load data easily
 
 ## 💼 Project Purpose
-Created as part of a freelance data analyst portfolio to demonstrate real-world SQL + Python hybrid workflows.
+This project was created as part of a freelance data analyst portfolio, demonstrating a realistic workflow combining SQL and Python.
