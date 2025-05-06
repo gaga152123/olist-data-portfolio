@@ -18,5 +18,8 @@ It identifies top sellers, high-performing product categories, and regional tren
 - 🗃️ CSV data extracted from Olist dataset
 - 📦 Instructions to unzip and load data easily
 
+📌 This is a fully executable notebook. Run the code cells to see all charts, visualizations, and results directly.
+
+
 ## 💼 Project Purpose
 This project was created as part of a freelance data analyst portfolio, demonstrating a realistic workflow combining SQL and Python.
